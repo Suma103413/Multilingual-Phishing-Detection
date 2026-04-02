@@ -1,2 +1,9 @@
-# Multilingual-Phishing-Detection
-Hybrid multilingual phishing detection using XLM-RoBERTa and CNN-based URL features.
+# Hybrid Multilingual Phishing Detection Using XLM-RoBERTa and CNN-Based URL Features
+
+## 📌 Overview
+This project implements a hybrid deep learning model for phishing detection.  
+It combines XLM-RoBERTa for multilingual text embeddings with CNN-based URL feature extraction, enabling accurate detection of phishing websites across multiple languages.
+
+---
+
+
